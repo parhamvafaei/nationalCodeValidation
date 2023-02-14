@@ -1,12 +1,14 @@
 
 /*
- HOW TO :
 
-   This implementation of NationalCodeBusiness created just to work and test in java back-end
-  and using console to show results !
+  implement NationalCodeBusiness class and application logic
 */
 public class NationalCodeBusinessImpl implements NationalCodeBusiness {
 
+
+
+
+    //check nationalCode validation just based on algorithm
     @Override
     public void validateNationalCode(NationalCode nationalCode) {
         int position = 10 ;

@@ -1,7 +1,12 @@
 public class Util {
     boolean condition;
 
+
+
+//To get directly code from user and validate it
+//To comply that every method should do one job and readability take this validation apart
     public NationalCode convertToNationalCode(String string) {
+
 
 
         StringBuilder nationalCode = new StringBuilder();
