@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f257ba48-e9a2-4241-80c3-10312d2e4d9f" name="Changes" comment="create class NationalCode class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NationalCodeBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NationalCodeBusinessImpl.java" afterDir="false" />
+    <list default="true" id="f257ba48-e9a2-4241-80c3-10312d2e4d9f" name="Changes" comment="update">
+      <changelist_data name="parham" email="p.vafaeei@gmail.com" date="1676358323000" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NationalCodeValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/NationalCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NationalCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NationalCodeBusinessImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NationalCodeBusinessImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -38,18 +57,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -64,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676357257492</updated>
       <workItem from="1676357261706" duration="2351000" />
+      <workItem from="1676389721541" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="start project">
       <created>1676357611002</created>
@@ -104,7 +124,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
