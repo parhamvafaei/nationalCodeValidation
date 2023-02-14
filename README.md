@@ -4,7 +4,7 @@
 
 
 
-------                            Small java program to check Iranian nationaCode validation !                                         ------
+------                            Small java program to check Iranian nationalCode validation !                                         ------
 
 
 
