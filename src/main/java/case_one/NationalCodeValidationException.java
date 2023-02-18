@@ -1,3 +1,5 @@
+package case_one;
+
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
